@@ -1,0 +1,22 @@
+.topNav {
+  display: flex;
+  justify-content: space-between;
+  /* place-items: center; */
+}
+
+.logo {
+  margin: auto;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.menuList {
+  margin: auto;
+
+  button {
+    /* background-color: ; */
+    border: solid 1px rgb(167, 167, 167);
+    border-radius: 4px;
+    padding: 4px 12px;
+  }
+}
